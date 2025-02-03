@@ -17,7 +17,7 @@ A simple Java application that allows users to input six numbers and calculates 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/NumberCalculator.git
+   git clone https://github.com/nurulashraf/NumberCalculator.git
    cd NumberCalculator
    ```
 
